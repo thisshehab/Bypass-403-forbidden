@@ -26,7 +26,7 @@ Introduce your penetration testing tool, emphasizing ethical use and authorized 
     - Change the request to POST method.
 
 5. **Path Modification:**
-    - Modifying paths in requests to test for security flaws and access control issues.
+    - Modifying paths in requests to test for security flaws and access control issues
 
 6. **Changing HTTP Version to v1:**
     - Switching the HTTP version so the response might change.
