@@ -20,7 +20,7 @@ Introduce your penetration testing tool, emphasizing ethical use and authorized 
     - Performing recursive fuzzing to discover endpoints
 
 3. **Special Character Fuzzing:**
-    - Employing special character fuzzing to identify and test for input validation vulnerabilities.
+    - Employing special character fuzzing to identify and test for input validation vulnerabilities
 
 4. **POST Method Usage:**
     - Change the request to POST method.
