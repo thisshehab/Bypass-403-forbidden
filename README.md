@@ -29,7 +29,7 @@ Introduce your penetration testing tool, emphasizing ethical use and authorized 
     - Modifying paths in requests to test for security flaws and access control issues
 
 6. **Changing HTTP Version to v1:**
-    - Switching the HTTP version so the response might change.
+    - Switching the HTTP version so the response might change
 
 ## Installation
 
