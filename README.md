@@ -17,7 +17,7 @@ Introduce your penetration testing tool, emphasizing ethical use and authorized 
     - Spoofing the client IP address in the HTTP headers for testing purposes.
   
 2. **Recursive Fuzzing to Endpoints:**
-    - Performing recursive fuzzing to discover endpoints.
+    - Performing recursive fuzzing to discover endpoints
 
 3. **Special Character Fuzzing:**
     - Employing special character fuzzing to identify and test for input validation vulnerabilities.
