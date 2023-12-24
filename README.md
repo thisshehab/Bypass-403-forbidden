@@ -11,7 +11,7 @@ bypassing 403!, use automated workflow to do that >
 
 Introduce your penetration testing tool, emphasizing ethical use and authorized access.
 
-## Features
+## Methdology 
 
 1. **Changing X-Forwarded-For to 127.0.0.1:**
     - Spoofing the localhost in the HTTP headers
