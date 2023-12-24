@@ -14,7 +14,7 @@ Introduce your penetration testing tool, emphasizing ethical use and authorized 
 ## Features
 
 1. **Changing X-Forwarded-For to 127.0.0.1:**
-    - Spoofing the client IP address in the HTTP headers for testing purposes
+    - Spoofing the localhost in the HTTP headers
   
 2. **Recursive Fuzzing to Endpoints:**
     - Performing recursive fuzzing to discover endpoints
