@@ -19,16 +19,13 @@ Introduce your penetration testing tool, emphasizing ethical use and authorized 
 2. **Recursive Fuzzing to Endpoints:**
     - Performing recursive fuzzing to discover endpoints
 
-3. **Special Character Fuzzing:**
-    - Employing special character fuzzing to identify and test for input validation vulnerabilities
-
-4. **POST Method Usage:**
+3. **POST Method Usage:**
     - Change the request to POST method.
 
-5. **Path Modification:**
+4. **Path Modification:**
     - Modifying paths in requests to test for security flaws and access control issues
 
-6. **Changing HTTP Version to v1:**
+5. **Changing HTTP Version to v1:**
     - Switching the HTTP version so the response might change
 
 ## Installation
