@@ -1,5 +1,5 @@
 # Bypass-403-forbidden
-bypassing 403!, use automated workflow to do that >
+bypassing 403! forbidden, use automated workflow to do that
 ## Table of Contents
 
 - [Introduction](#introduction)
