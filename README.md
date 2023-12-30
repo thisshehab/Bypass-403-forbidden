@@ -40,7 +40,7 @@ cd Bypass-403-forbidden
 
 ```bash
 # build the image
-docker build -t bypass403 .
+sudo docker build -t bypass403 .
 ```
 ## Usage
 replace the file yourinput.txt with yourfile that contains a list of 403 endpoints,
