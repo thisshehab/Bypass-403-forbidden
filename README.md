@@ -43,7 +43,7 @@ cd Bypass-403-forbidden
 sudo docker build -t bypass403 .
 ```
 ## Usage
-replace the file yourinput.txt with yourfile that contains a list of 403 endpoints,
+replace the file yourinput.txt with yourfile that contains a list of 403 endpoints.
 
 ```bash
 sudo docker run -v ./yourinput.txt:/app/input.txt -it bypass403
