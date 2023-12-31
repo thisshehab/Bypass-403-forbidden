@@ -27,6 +27,5 @@ COPY . .
 
 RUN chmod -R 777 .
 RUN chmod +x /entrypoint.sh
-RUN chmod +x -R scripts/
 
 CMD ["/command.sh"]
