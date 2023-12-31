@@ -30,7 +30,7 @@ Introduce your penetration testing tool, emphasizing ethical use and authorized 
 
 ## Installation
 
-make sure that you have installed docker in you enviroment.
+make sure that you have installed docker in your enviroment.
 
 ```bash
 # clone the repository
