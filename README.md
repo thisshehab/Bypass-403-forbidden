@@ -20,7 +20,7 @@ Introduce your penetration testing tool, emphasizing ethical use and authorized 
     - Performing recursive fuzzing to discover endpoints
 
 3. **POST Method Usage:**
-    - Change the request to POST method.
+    - Change the request to POST method
 
 4. **Path Modification:**
     - Modifying paths in requests to test for security flaws and access control issues
