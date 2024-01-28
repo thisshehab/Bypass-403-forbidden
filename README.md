@@ -8,7 +8,7 @@ bypassing 403! forbidden, use this automated workflow to achive that.
 - [Usage](#usage)
 
 ## Introduction
->>>>>
+>>>>
 Introduce your penetration testing tool, emphasizing ethical use and authorized access.
 
 ## Methdology 
